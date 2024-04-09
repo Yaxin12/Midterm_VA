@@ -6,4 +6,6 @@ Dataset: https://divvybikes.com/system-data
 (Download form divvy webset)
 Each trip in the dataset is anonymized and includes critical information such as the trip start day and time, trip end day and time, trip start station, trip end station, and rider type (Member, Single Ride, and Day Pass). By processing the data to remove trips taken by staff during system servicing and inspections, as well as those below 60 seconds in lengt.
 
+Future work:Collect data from the past five years to ensure more accurate conclusions. Additionally, create a roadmap.
+
 Link: https://public.tableau.com/app/profile/yaxin.zhao/viz/Book1_17106154364640/Story1?publish=yes
